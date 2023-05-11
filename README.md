@@ -24,4 +24,4 @@ To run this application, you need to have the following installed:
 
   javac *.java
 
-   git clone https://github.com/your-username/basic-text-editor.git
+   git clone [https://github.com/your-username/basic-text-editor.git](https://github.com/theDarkHorse17/texteditor.git)
